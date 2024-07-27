@@ -10,7 +10,7 @@ Created a food delivery app template in Figma, the steps I follwed are below.
 
 5.Showcase: Present your design, ensuring it is user-friendly and visually appealing.
 
-YOU ACCESS THE EDITOR ROOM : https://www.figma.com/design/d4e8tRvpCz7lmTR0wEhmIm/food-ordering-app?node-id=0-1&t=7UAyeWWFL9l5MDln-1
+YOU CAN ACCESS THE EDITOR ROOM : https://www.figma.com/design/d4e8tRvpCz7lmTR0wEhmIm/food-ordering-app?node-id=0-1&t=7UAyeWWFL9l5MDln-1
 
 EXPERIENCE THE PROTOTYPE: https://www.figma.com/proto/d4e8tRvpCz7lmTR0wEhmIm/food-ordering-app?node-id=4-2&t=awbs48ii94eXb3aX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2&show-proto-sidebar=1
 # CODSOFT
